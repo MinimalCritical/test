@@ -1,0 +1,14 @@
+@import "null.css";
+
+body {
+	background-color: #000;
+	color: #fff;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+.genji {
+	background: url("./download.png") center/cover no-repeat fixed;
+	height: 100px;
+}
